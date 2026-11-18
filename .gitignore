@@ -13,3 +13,4 @@ __pycache__/
 # ChromaDB
 chroma_db/
 data/chroma_db/
+data/*.pdf
